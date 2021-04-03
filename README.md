@@ -1,1 +1,5 @@
 # Telecom-Customer-Churn-Prediction
+
+We all know that the cost of retaining a customer is far less when compared to cost of acquiring a new customer. Churn occurs when the customer decides to switch to another company or service provider, also sometimes churn occurs when the customer shifts to a new place or unfortunate death. Here we are focusing on the first type of churn as it helps in determining the bond between the customers and the company. In short churn rate is the customer’s turnover to the company in peer to peer network and, we can say that it is one of the best ways to measure success rate of the company.
+
+In this analysis we will be working on the Telco Customer churn rate where the data is contains various factor such as customer’s demographics with their usage of services. These factors will not only help us analyse the churn of their customers but also, we can segregate the customers and provide recommendation to the company as to how can they reduce the churn of their customers and increase their revenue.
